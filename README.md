@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ubais88&label=Profile%20views&color=0e75b6&style=flat" alt="ubais88" /> </p>
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **React, Javascript, CSS**
 
